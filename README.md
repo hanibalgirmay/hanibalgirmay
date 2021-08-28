@@ -55,3 +55,4 @@
 [node]: https://nodejs.org
 [vue]: https://vuejs.org
 [react]: https://reactjs.org
+[angular]: https://angular.io
