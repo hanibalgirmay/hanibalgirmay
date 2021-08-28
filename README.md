@@ -20,23 +20,18 @@
 ### Languages and Tools
 
 ## Frontend
+
 [<img src="https://s2.svgbox.net/files.svg?ic=reactjs" width="22" height="22" />][react]
-
 [<img src="https://s2.svgbox.net/files.svg?ic=vue" width="22" height="22" />][vue]
-
 [<img src="https://s2.svgbox.net/files.svg?ic=angular" width="22" height="22" />][angular]
-
 [<img src="https://s2.svgbox.net/files.svg?ic=next" width="22" height="22" />][next]
-
 [<img src="https://s2.svgbox.net/files.svg?ic=nuxt" width="22" height="22" />][nuxt]
 
 ## backend
+
 [<img src="https://s2.svgbox.net/files.svg?ic=node" width="22" height="22" />][node]
-
 [<img src="https://s2.svgbox.net/files.svg?ic=nestjs" width="22" height="22" />][nest]
-
 [<img src="https://s2.svgbox.net/files.svg?ic=php" width="22" height="22" />][php]
-
 [<img src="https://s2.svgbox.net/files.svg?ic=django" width="22" height="22" />][django]
 
 <br />
